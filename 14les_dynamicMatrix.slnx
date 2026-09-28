@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="14les_dynamicMatrix/14les_dynamicMatrix.vcxproj" />
+</Solution>
